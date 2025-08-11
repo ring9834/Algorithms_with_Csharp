@@ -60,7 +60,7 @@ namespace Algorithms
     }
 ```
 
-## Example - IsArmstrong
+## Example - ReverseNumber
 ```sh
     public class Reverse_Number
     {
