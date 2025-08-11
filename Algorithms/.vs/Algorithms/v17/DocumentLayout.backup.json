@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|d:\\projects_t\\c#\\algorithm\\algorithms\\algorithms\\sine_cosine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\sine_cosine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|d:\\projects_t\\c#\\algorithm\\algorithms\\algorithms\\decimal_to_binary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\decimal_to_binary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|d:\\projects_t\\c#\\algorithm\\algorithms\\algorithms\\count_odds_evens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\count_odds_evens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|d:\\projects_t\\c#\\algorithm\\algorithms\\algorithms\\calculate_harmonic_sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\calculate_harmonic_sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|d:\\projects_t\\c#\\algorithm\\algorithms\\algorithms\\isarmstrong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\isarmstrong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|d:\\projects_t\\c#\\algorithm\\algorithms\\algorithms\\check_leap_year.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\check_leap_year.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|d:\\projects_t\\c#\\algorithm\\algorithms\\algorithms\\calculate_circlearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\calculate_circlearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|d:\\projects_t\\c#\\algorithm\\algorithms\\algorithms\\squarerootofnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\squarerootofnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|d:\\projects_t\\c#\\algorithm\\algorithms\\algorithms\\celsiust_to_fahrenheit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\celsiust_to_fahrenheit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|d:\\projects_t\\c#\\algorithm\\algorithms\\algorithms\\primenumbercheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\primenumbercheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|d:\\projects_t\\c#\\algorithm\\algorithms\\algorithms\\ispalindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\ispalindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|d:\\projects_t\\c#\\algorithm\\algorithms\\algorithms\\issecurepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\issecurepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|d:\\projects_t\\c#\\algorithm\\algorithms\\algorithms\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|d:\\projects_t\\c#\\algorithm\\algorithms\\algorithms\\gcd_lcm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\gcd_lcm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|d:\\projects_t\\c#\\algorithm\\algorithms\\algorithms\\reversenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\reversenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|d:\\projects_t\\c#\\algorithm\\algorithms\\algorithms\\reversestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\reversestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|d:\\projects_t\\c#\\algorithm\\algorithms\\algorithms\\charactercounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\charactercounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|d:\\projects_t\\c#\\algorithm\\algorithms\\algorithms\\findmin_max_index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\findmin_max_index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|d:\\projects_t\\c#\\algorithm\\algorithms\\algorithms\\dotproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\dotproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|d:\\projects_t\\c#\\algorithm\\algorithms\\algorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A451DA44-B62E-498A-9E6E-4053576F6F0E}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Decimal_to_Binary.cs",
+              "DocumentMoniker": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\Decimal_to_Binary.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Decimal_to_Binary.cs",
+              "ToolTip": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\Decimal_to_Binary.cs",
+              "RelativeToolTip": "Algorithms\\Decimal_to_Binary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T04:08:32.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculate_Harmonic_Sum.cs",
+              "DocumentMoniker": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\Calculate_Harmonic_Sum.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Calculate_Harmonic_Sum.cs",
+              "ToolTip": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\Calculate_Harmonic_Sum.cs",
+              "RelativeToolTip": "Algorithms\\Calculate_Harmonic_Sum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T04:01:18.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IsArmstrong.cs",
+              "DocumentMoniker": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\IsArmstrong.cs",
+              "RelativeDocumentMoniker": "Algorithms\\IsArmstrong.cs",
+              "ToolTip": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\IsArmstrong.cs",
+              "RelativeToolTip": "Algorithms\\IsArmstrong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T03:55:56.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Check_Leap_Year.cs",
+              "DocumentMoniker": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\Check_Leap_Year.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Check_Leap_Year.cs",
+              "ToolTip": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\Check_Leap_Year.cs",
+              "RelativeToolTip": "Algorithms\\Check_Leap_Year.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T03:50:33.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calculate_CircleArea.cs",
+              "DocumentMoniker": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\Calculate_CircleArea.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Calculate_CircleArea.cs",
+              "ToolTip": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\Calculate_CircleArea.cs",
+              "RelativeToolTip": "Algorithms\\Calculate_CircleArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T03:49:31.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SquareRootofNumber.cs",
+              "DocumentMoniker": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\SquareRootofNumber.cs",
+              "RelativeDocumentMoniker": "Algorithms\\SquareRootofNumber.cs",
+              "ToolTip": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\SquareRootofNumber.cs",
+              "RelativeToolTip": "Algorithms\\SquareRootofNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T03:38:47.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sine_Cosine.cs",
+              "DocumentMoniker": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\Sine_Cosine.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Sine_Cosine.cs",
+              "ToolTip": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\Sine_Cosine.cs",
+              "RelativeToolTip": "Algorithms\\Sine_Cosine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T03:19:01.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Count_Odds_Evens.cs",
+              "DocumentMoniker": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\Count_Odds_Evens.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Count_Odds_Evens.cs",
+              "ToolTip": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\Count_Odds_Evens.cs",
+              "RelativeToolTip": "Algorithms\\Count_Odds_Evens.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T02:56:24.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Celsiust_to_Fahrenheit.cs",
+              "DocumentMoniker": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\Celsiust_to_Fahrenheit.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Celsiust_to_Fahrenheit.cs",
+              "ToolTip": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\Celsiust_to_Fahrenheit.cs",
+              "RelativeToolTip": "Algorithms\\Celsiust_to_Fahrenheit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T03:47:45.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PrimeNumberCheck.cs",
+              "DocumentMoniker": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\PrimeNumberCheck.cs",
+              "RelativeDocumentMoniker": "Algorithms\\PrimeNumberCheck.cs",
+              "ToolTip": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\PrimeNumberCheck.cs",
+              "RelativeToolTip": "Algorithms\\PrimeNumberCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T03:31:56.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IsPalindrome.cs",
+              "DocumentMoniker": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\IsPalindrome.cs",
+              "RelativeDocumentMoniker": "Algorithms\\IsPalindrome.cs",
+              "ToolTip": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\IsPalindrome.cs",
+              "RelativeToolTip": "Algorithms\\IsPalindrome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T03:26:36.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Fibonacci.cs",
+              "DocumentMoniker": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\Fibonacci.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Fibonacci.cs",
+              "ToolTip": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\Fibonacci.cs",
+              "RelativeToolTip": "Algorithms\\Fibonacci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T03:23:55.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GCD_LCM.cs",
+              "DocumentMoniker": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\GCD_LCM.cs",
+              "RelativeDocumentMoniker": "Algorithms\\GCD_LCM.cs",
+              "ToolTip": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\GCD_LCM.cs",
+              "RelativeToolTip": "Algorithms\\GCD_LCM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T03:19:04.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReverseNumber.cs",
+              "DocumentMoniker": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\ReverseNumber.cs",
+              "RelativeDocumentMoniker": "Algorithms\\ReverseNumber.cs",
+              "ToolTip": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\ReverseNumber.cs",
+              "RelativeToolTip": "Algorithms\\ReverseNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T03:14:41.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReverseString.cs",
+              "DocumentMoniker": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\ReverseString.cs",
+              "RelativeDocumentMoniker": "Algorithms\\ReverseString.cs",
+              "ToolTip": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\ReverseString.cs",
+              "RelativeToolTip": "Algorithms\\ReverseString.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T03:11:33.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CharacterCounts.cs",
+              "DocumentMoniker": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\CharacterCounts.cs",
+              "RelativeDocumentMoniker": "Algorithms\\CharacterCounts.cs",
+              "ToolTip": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\CharacterCounts.cs",
+              "RelativeToolTip": "Algorithms\\CharacterCounts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T03:08:07.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IsSecurePassword.cs",
+              "DocumentMoniker": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\IsSecurePassword.cs",
+              "RelativeDocumentMoniker": "Algorithms\\IsSecurePassword.cs",
+              "ToolTip": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\IsSecurePassword.cs",
+              "RelativeToolTip": "Algorithms\\IsSecurePassword.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T03:03:32.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FindMin_Max_Index.cs",
+              "DocumentMoniker": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\FindMin_Max_Index.cs",
+              "RelativeDocumentMoniker": "Algorithms\\FindMin_Max_Index.cs",
+              "ToolTip": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\FindMin_Max_Index.cs",
+              "RelativeToolTip": "Algorithms\\FindMin_Max_Index.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T03:00:28.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DotProduct.cs",
+              "DocumentMoniker": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\DotProduct.cs",
+              "RelativeDocumentMoniker": "Algorithms\\DotProduct.cs",
+              "ToolTip": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\DotProduct.cs",
+              "RelativeToolTip": "Algorithms\\DotProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T02:49:13.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\Program.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Program.cs",
+              "ToolTip": "D:\\Projects_T\\C#\\Algorithm\\Algorithms\\Algorithms\\Program.cs",
+              "RelativeToolTip": "Algorithms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T02:44:46.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
